@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+db.sqlite3
+/venv/
+*.log
+*.pot
+*.pyc
+.env
+.venv
+cert.crt
+cert.key
+env
